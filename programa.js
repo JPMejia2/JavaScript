@@ -1,1 +1,0 @@
-alert ("Ya estas conectado a JavaScript");
